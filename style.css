@@ -101,3 +101,17 @@ padding: 15px 30px;
     align-content: center;
     padding: 10px;
 }
+
+#containertwo {
+height: 800px;
+    background-position: center;
+    background-size: 1800px;
+    background-color: #F58876;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 20% 80%;
+    padding: 30px;
+    align-content: center;
+    color: #F55600;
+    text-align: center;
+}
